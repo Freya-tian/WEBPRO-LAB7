@@ -17,4 +17,4 @@
 ### Автор 
     Тянь Ци 
 ### View
-    ![markdown](view.gif)
+   ![markdown](view.gif)
