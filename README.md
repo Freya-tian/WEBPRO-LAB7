@@ -16,3 +16,5 @@
     creat file.js
 ### Автор 
     Тянь Ци 
+### View
+    ![markdown](view.gif)
